@@ -10,7 +10,7 @@ Fazer estudo de análises com Machine Learning e análises críticas sobre anima
 - [Dayvson Spacca](https://github.com/dayvsonspacca)
 - [Igor Gabriel](https://github.com/IgorLekal)
 - [Mateus Xavier](https://github.com/sauMte)
-- Thiago Marques
+- [Thiago Marques](https://github.com/thiamarr)
 
 ## EXTRAÇÃO 
 [Database](https://www.kaggle.com/hernan4444/anime-recommendation-database-2020?select=anime.csv)
