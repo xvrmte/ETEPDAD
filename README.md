@@ -9,7 +9,7 @@ Fazer estudo de análises com Machine Learning e análises críticas sobre anima
 
 - [Dayvson Spacca](https://github.com/dayvsonspacca)
 - [Igor Gabriel](https://github.com/IgorLekal)
-- [Mateus Xavier](https://github.com/mateusxsantos)
+- [Mateus Xavier](https://github.com/sauMte)
 - Thiago Marques
 
 ## EXTRAÇÃO 
