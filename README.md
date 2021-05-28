@@ -14,3 +14,6 @@ Fazer estudo de análises com Machine Learning e análises críticas sobre anima
 
 ## EXTRAÇÃO 
 [Database](https://www.kaggle.com/hernan4444/anime-recommendation-database-2020?select=anime.csv)
+
+## SLIDE - APRESENTAÇÃO
+- [AP2](https://www.canva.com/design/DAEfnByomaY/Bq07HGawyZb1GjJx_fdtLg/view?utm_content=DAEfnByomaY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
