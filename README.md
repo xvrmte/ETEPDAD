@@ -17,3 +17,6 @@ Fazer estudo de análises com Machine Learning e análises críticas sobre anima
 
 ## SLIDE - APRESENTAÇÃO
 - [AP2](https://www.canva.com/design/DAEfnByomaY/Bq07HGawyZb1GjJx_fdtLg/view?utm_content=DAEfnByomaY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+## VÍDEOS 
+[DESAFIO I](https://www.youtube.com/watch?v=_l01dPG2qHk&ab_channel=MateusXavier) 
